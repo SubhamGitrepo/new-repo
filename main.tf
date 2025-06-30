@@ -3,3 +3,5 @@ resource "azurerm_resource_group" "rgrised" {
   location = "westus"
 
 }
+
+# new code added
